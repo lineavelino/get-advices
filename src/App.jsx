@@ -1,6 +1,9 @@
+import Card from "./components/Card";
+import "./styles.scss"
+
 function App() {
   return (
-    <h1>Hello World</h1>
+    <Card />
   );
 }
 

@@ -21,3 +21,18 @@
     font-style: italic;
     width: 70%;
 }
+
+button {
+    margin-top: 5rem;
+    padding: 0.2rem;
+    border: none;
+    border-radius: 10%;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: filter 0.2s;
+
+    &:hover {
+        filter: brightness(0.8);
+    }
+}

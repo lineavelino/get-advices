@@ -1,0 +1,23 @@
+.container {
+    width: 50rem;
+    height: 50rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+    background-color: #FFF5EE;
+    border-radius: 60%;
+}
+
+.title {
+    font-weight: 900;
+    font-size: 5rem;
+}
+
+.text {
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    font-style: italic;
+    width: 70%;
+}

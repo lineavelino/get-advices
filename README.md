@@ -17,4 +17,4 @@ Você também consegue ver erros no console.
 
 ## Veja em produção
 
-O projeto está hospedado utilizando o GitHub pages [aqui]().
+O projeto está hospedado utilizando o Heroku [aqui nesse link](https://get-advices.herokuapp.com/).

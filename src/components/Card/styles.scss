@@ -61,3 +61,14 @@ button {
         font-size: 3rem;
     }
 }
+
+@media only screen and (max-width: 480px) {
+    .container {
+        width: 25rem;
+        height: 25rem;
+    }
+
+    .title {
+        font-size: 2rem;
+    }
+}
